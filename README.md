@@ -1,5 +1,12 @@
-# Make_Show-Hide_Password
+# Make Show/Hide Password
 This is my script for make a button click and show/hide a text password. In my script, i use a boostrap 4.5 version, jquery 3.5.1, and font-awesome for the icon eye slash.
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/70514099/132086558-10dec842-051f-4cdd-87f6-568d5889b180.png">
+    <p>Hide Password</p>
+<img src="https://user-images.githubusercontent.com/70514099/132086717-d2bc6046-f059-41e5-863b-c422d896d13c.png">
+    <p>Show Password</p>
+</div>
 
 ## What i use
 - [Boostrap] (https://getbootstrap.com/)
