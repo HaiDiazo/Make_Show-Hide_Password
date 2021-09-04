@@ -9,9 +9,9 @@ This is my script for make a button click and show/hide a text password. In my s
 </div>
 
 ## What i use
-- [Boostrap] (https://getbootstrap.com/)
-- [Jquery 3.5.1] (https://jquery.com/download/)
-- [Font Awesome from W3schools] (https://www.w3schools.com/icons/icons_reference.asp)
+- [Boostrap](https://getbootstrap.com/)
+- [Jquery 3.5.1](https://jquery.com/download/)
+- [Font Awesome from W3schools](https://www.w3schools.com/icons/icons_reference.asp)
 
 ## Getting Started
 - First, you need add in head html. Required use jquery, but if you have your own css and font awesome. You don't need to add boostrap and font awesome.
